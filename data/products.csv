@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,brand,unit_price,cost_price
+PROD0001,UrbanNest Ceiling Fan 538,Home & Kitchen,Appliances,UrbanNest,939,649.13
+PROD0002,LivWell Curtain Set 994,Home & Kitchen,Home Decor,LivWell,449,229.97
+PROD0003,Chikoo Sandals 853,Fashion,Footwear,Chikoo,1189,576.67
+PROD0004,UrbanThread Power Bank 760,Fashion,Accessories,UrbanThread,1679,880.33
+PROD0005,ActiveEdge Sports Cap 147,Sports & Fitness,Sportswear,ActiveEdge,6849,3890.91
+PROD0006,Zenith Laptop 337,Electronics,Laptops,Zenith,6819,4206.54
+PROD0007,InkWell Publications Romance Novel 108,Books,Fiction,InkWell Publications,379,245.49
+PROD0008,HomeCraft Wall Clock 994,Home & Kitchen,Home Decor,HomeCraft,13759,6908.21
+PROD0009,PageTurner Press Business Book 795,Books,Non-Fiction,PageTurner Press,229,146.69
+PROD0010,Samsonic Bluetooth Speaker 855,Electronics,Audio,Samsonic,14139,6006.62
+PROD0011,PageTurner Press Business Book 315,Books,Non-Fiction,PageTurner Press,929,501.15
+PROD0012,StorySpring Thriller Novel 622,Books,Fiction,StorySpring,1089,706.13
+PROD0013,LivWell Curtain Set 459,Home & Kitchen,Home Decor,LivWell,719,362.43
+PROD0014,Nexo Bluetooth Speaker 159,Electronics,Audio,Nexo,10729,5868.7
+PROD0015,Trendify Men's Jacket 936,Fashion,Men,Trendify,3419,1698.77
+PROD0016,Zenith Bluetooth Speaker 948,Electronics,Audio,Zenith,3379,1965.44
+PROD0017,KitchenKing Microwave Oven 947,Home & Kitchen,Appliances,KitchenKing,10459,4584.99
+PROD0018,InkWell Publications Workbook 418,Books,Education,InkWell Publications,429,213.31
+PROD0019,PureSkin Kajal 891,Beauty,Makeup,PureSkin,669,466.6
+PROD0020,FitPro Hiking Backpack 142,Sports & Fitness,Outdoor,FitPro,4419,2196.77
+PROD0021,IronCore Sports Cap 254,Sports & Fitness,Sportswear,IronCore,10019,5984.23
+PROD0022,PureSkin Sunscreen 230,Beauty,Skincare,PureSkin,2809,1779.31
+PROD0023,LumiCare Conditioner 421,Beauty,Haircare,LumiCare,869,525.47
+PROD0024,LumiCare Kajal 750,Beauty,Makeup,LumiCare,299,180.2
+PROD0025,HomeCraft Cookware Set 288,Home & Kitchen,Kitchen,HomeCraft,2399,956.06
+PROD0026,Zenith Case 437,Electronics,Accessories,Zenith,13349,8918.93
+PROD0027,Trendify Formal Shoes 934,Fashion,Footwear,Trendify,1239,765.09
+PROD0028,PeakGear Sports T-Shirt 542,Sports & Fitness,Sportswear,PeakGear,2549,1567.45
+PROD0029,UrbanNest Study Table 239,Home & Kitchen,Furniture,UrbanNest,319,167.67
+PROD0030,OmniTech Laptop 530,Electronics,Laptops,OmniTech,3489,1565.54
+PROD0031,BrightMind Books Fantasy Novel 179,Books,Fiction,BrightMind Books,119,58.32
+PROD0032,OmniTech Notebook 277,Electronics,Laptops,OmniTech,36499,18385.95
+PROD0033,StyleHub Cable 365,Fashion,Accessories,StyleHub,449,295.94
+PROD0034,GlowUp Compact Powder 831,Beauty,Makeup,GlowUp,3149,1283.69
+PROD0035,Samsonic Cable 151,Electronics,Accessories,Samsonic,2379,1494.08
+PROD0036,StyleHub Men's Shirt 352,Fashion,Men,StyleHub,2459,1036.66
+PROD0037,NatureBloom Hair Oil 880,Beauty,Haircare,NatureBloom,1739,770.85
+PROD0038,Voltek Smartphone 166,Electronics,Smartphones,Voltek,3539,2129.91
+PROD0039,UrbanThread Women's Dress 979,Fashion,Women,UrbanThread,309,192.69
+PROD0040,StyleHub Women's Kurti 909,Fashion,Women,StyleHub,599,409.88
+PROD0041,Chikoo Women's Top 750,Fashion,Women,Chikoo,1999,1317.28
+PROD0042,Skyline Phone 250,Electronics,Smartphones,Skyline,3069,1739.21
+PROD0043,IronCore Camping Tent 291,Sports & Fitness,Outdoor,IronCore,8819,5280.36
+PROD0044,ActiveEdge Yoga Mat 807,Sports & Fitness,Fitness,ActiveEdge,8129,4753.5
+PROD0045,PeakGear Gym Shorts 974,Sports & Fitness,Sportswear,PeakGear,2459,1610.36
+PROD0046,UrbanThread Women's Dress 170,Fashion,Women,UrbanThread,1819,719.83
+PROD0047,ActiveEdge Track Pants 621,Sports & Fitness,Sportswear,ActiveEdge,869,428.62
+PROD0048,IronCore Sports T-Shirt 316,Sports & Fitness,Sportswear,IronCore,319,160.96
+PROD0049,StorySpring Self-Help Book 396,Books,Non-Fiction,StorySpring,169,82.11
+PROD0050,TrailBlaze Gym Shorts 632 PROD0050,Sports & Fitness,Sportswear,TrailBlaze,3779,1382.22
+PROD0051,OmniTech Power Bank 442,Electronics,Accessories,OmniTech,1219,544.16
+PROD0052,BrightWave Phone 474,Electronics,Smartphones,BrightWave,38599,18042.62
+PROD0053,Wardrobe Co. Charger 318,Fashion,Accessories,Wardrobe Co.,1949,1059.22
+PROD0054,LumiCare Hair Serum 779,Beauty,Haircare,LumiCare,419,229.77
+PROD0055,ActiveEdge Water Bottle 821,Sports & Fitness,Outdoor,ActiveEdge,669,460.5
+PROD0056,Samsonic Notebook 538,Electronics,Laptops,Samsonic,2539,1707.55
+PROD0057,Trendify Formal Shoes 767,Fashion,Footwear,Trendify,829,398.14
+PROD0058,Wardrobe Co. Women's Kurti 849,Fashion,Women,Wardrobe Co.,619,314.64
+PROD0059,PureSkin Conditioner 786,Beauty,Haircare,PureSkin,159,107.27
+PROD0060,Wardrobe Co. Women's Kurti 477,Fashion,Women,Wardrobe Co.,2319,1525.43
+PROD0061,PeakGear Water Bottle 909,Sports & Fitness,Outdoor,PeakGear,3259,1599.69
+PROD0062,GlowUp Sunscreen 724,Beauty,Skincare,GlowUp,199,106.33
+PROD0063,UrbanThread Women's Kurti 987,Fashion,Women,UrbanThread,729,480.23
+PROD0064,KitchenKing Water Purifier 875,Home & Kitchen,Appliances,KitchenKing,3639,2332.18
+PROD0065,GlowUp Face Wash 277,Beauty,Skincare,GlowUp,1649,969.96
+PROD0066,HomeCraft Microwave Oven 347,Home & Kitchen,Appliances,HomeCraft,2029,977.39
+PROD0067,VelvetTouch Shampoo 752,Beauty,Haircare,VelvetTouch,1759,647.0
+PROD0068,Voltek Laptop 400,Electronics,Laptops,Voltek,2659,1396.0
+PROD0069,Samsonic Phone 519,Electronics,Smartphones,Samsonic,24189,14514.57
+PROD0070,StyleHub Men's Jeans 347,Fashion,Men,StyleHub,379,153.63
+PROD0071,Metro Wear Men's Jeans 451,Fashion,Men,Metro Wear,799,435.91
+PROD0072,BrightMind Books Business Book 993,Books,Non-Fiction,BrightMind Books,919,384.15
+PROD0073,UrbanThread Men's Jeans 818,Fashion,Men,UrbanThread,2129,1310.09
+PROD0074,Metro Wear Formal Shoes 136,Fashion,Footwear,Metro Wear,1209,583.59
+PROD0075,PeakGear Skipping Rope 724,Sports & Fitness,Fitness,PeakGear,669,400.88
+PROD0076,Zenith Charger 785,Electronics,Accessories,Zenith,2709,1640.87
+PROD0077,Voltek Wireless Earbuds 608,Electronics,Audio,Voltek,4709,2865.49
+PROD0078,Comfora Air Fryer 264,Home & Kitchen,Appliances,Comfora,4049,1942.7
+PROD0079,Trendify Power Bank 345,Fashion,Accessories,Trendify,1569,570.77
+PROD0080,StyleHub Women's Top 847,Fashion,Women,StyleHub,609,242.98
+PROD0081,ActiveEdge Sports Cap 543,Sports & Fitness,Sportswear,ActiveEdge,3659,2090.5
+PROD0082,Metro Wear Running Shoes 784,Fashion,Footwear,Metro Wear,1159,512.51
+PROD0083,Voltek Cable 451,Electronics,Accessories,Voltek,23579,14125.47
+PROD0084,TrailBlaze Sports T-Shirt 334,Sports & Fitness,Sportswear,TrailBlaze,6229,3923.67
+PROD0085,Voltek Notebook 646,Electronics,Laptops,Voltek,3659,2048.91
+PROD0086,LumiCare Kajal 765,Beauty,Makeup,LumiCare,839,582.67
+PROD0087,Wardrobe Co. Women's Saree 395,Fashion,Women,Wardrobe Co.,599,384.73
+PROD0088,Metro Wear Sneakers 325,Fashion,Footwear,Metro Wear,1119,462.9
+PROD0089,LumiCare Hair Oil 976,Beauty,Haircare,LumiCare,589,232.56
+PROD0090,Voltek Phone 384,Electronics,Smartphones,Voltek,38899,15292.68
+PROD0091,Wardrobe Co. Men's Jeans 970,Fashion,Men,Wardrobe Co.,1489,685.43
+PROD0092,InkWell Publications Mystery Novel 859,Books,Fiction,InkWell Publications,379,160.55
+PROD0093,Voltek Headphones 255,Electronics,Audio,Voltek,11469,7801.3
+PROD0094,FitPro Gym Shorts 857,Sports & Fitness,Sportswear,FitPro,10399,5976.36
+PROD0095,NatureBloom Shampoo 865,Beauty,Haircare,NatureBloom,199,94.41
+PROD0096,StorySpring Mystery Novel 321,Books,Fiction,StorySpring,289,137.96
+PROD0097,Samsonic Bluetooth Speaker 317,Electronics,Audio,Samsonic,61619,30596.1
+PROD0098,FitPro Trekking Pole 871,Sports & Fitness,Outdoor,FitPro,1309,477.53
+PROD0099,Wardrobe Co. Case 757,Fashion,Accessories,Wardrobe Co.,349,228.55
+PROD0100,UrbanNest Pressure Cooker 832,Home & Kitchen,Kitchen,UrbanNest,929,567.61
+PROD0101,Wardrobe Co. Men's T-Shirt 379,Fashion,Men,Wardrobe Co.,1089,700.23
+PROD0102,InkWell Publications Workbook 366,Books,Education,InkWell Publications,839,394.58
+PROD0103,StyleHub Power Bank 880,Fashion,Accessories,StyleHub,459,227.67
+PROD0104,BrightWave Cable 275,Electronics,Accessories,BrightWave,1069,451.38
+PROD0105,Zenith Laptop 607,Electronics,Laptops,Zenith,9339,4244.29
+PROD0106,Zenith Charger 482,Electronics,Accessories,Zenith,1589,595.49
+PROD0107,Voltek Wireless Earbuds 785,Electronics,Audio,Voltek,38839,20800.27
+PROD0108,Trendify Sandals 535,Fashion,Footwear,Trendify,649,296.47
+PROD0109,HomeCraft Pressure Cooker 235,Home & Kitchen,Kitchen,HomeCraft,719,342.07
+PROD0110,TrailBlaze Gym Shorts 925,Sports & Fitness,Sportswear,TrailBlaze,389,157.47
+PROD0111,ActiveEdge Water Bottle 527,Sports & Fitness,Outdoor,ActiveEdge,2439,1549.54
+PROD0112,Trendify Running Shoes 384,Fashion,Footwear,Trendify,1109,471.67
+PROD0113,HomeCraft Office Chair 938,Home & Kitchen,Furniture,HomeCraft,3379,1680.86
+PROD0114,Wardrobe Co. Women's Kurti 974,Fashion,Women,Wardrobe Co.,1199,520.58
+PROD0115,Metro Wear Men's Jacket 728,Fashion,Men,Metro Wear,2769,1098.24
+PROD0116,Zenith Headphones 228,Electronics,Audio,Zenith,13379,9267.46
+PROD0117,FitPro Water Bottle 768,Sports & Fitness,Outdoor,FitPro,879,563.02
+PROD0118,GlowUp Compact Powder 737,Beauty,Makeup,GlowUp,719,476.93
+PROD0119,InkWell Publications Romance Novel 742,Books,Fiction,InkWell Publications,129,58.73
+PROD0120,VelvetTouch Kajal 705,Beauty,Makeup,VelvetTouch,1189,646.15
+PROD0121,Prestige+ Bed Frame 503,Home & Kitchen,Furniture,Prestige+,3439,1752.59
+PROD0122,Trendify Men's Shirt 235,Fashion,Men,Trendify,729,467.93
+PROD0123,OmniTech Cable 688,Electronics,Accessories,OmniTech,1059,432.47
+PROD0124,Samsonic Notebook 477,Electronics,Laptops,Samsonic,1279,847.64
+PROD0125,Zenith Notebook 274,Electronics,Laptops,Zenith,2429,1006.45
+PROD0126,LivWell Curtain Set 661,Home & Kitchen,Home Decor,LivWell,689,325.87
+PROD0127,UrbanNest Photo Frame 197,Home & Kitchen,Home Decor,UrbanNest,689,259.71
+PROD0128,UrbanThread Sneakers 268,Fashion,Footwear,UrbanThread,1659,759.81
+PROD0129,Wardrobe Co. Men's Jeans 637,Fashion,Men,Wardrobe Co.,479,251.68
+PROD0130,LivWell Cookware Set 419,Home & Kitchen,Kitchen,LivWell,309,208.52
+PROD0131,Chikoo Women's Top 477,Fashion,Women,Chikoo,3449,1282.71
+PROD0132,BrightMind Books Self-Help Book 874,Books,Non-Fiction,BrightMind Books,199,87.73
+PROD0133,Metro Wear Running Shoes 798,Fashion,Footwear,Metro Wear,1969,971.2
+PROD0134,TrailBlaze Track Pants 598,Sports & Fitness,Sportswear,TrailBlaze,1189,519.44
+PROD0135,GlowUp Sunscreen 262,Beauty,Skincare,GlowUp,509,336.28
+PROD0136,Chikoo Men's Jeans 403,Fashion,Men,Chikoo,699,402.63
+PROD0137,Comfora Table Lamp 325,Home & Kitchen,Home Decor,Comfora,529,194.63
+PROD0138,Zenith Wireless Earbuds 848,Electronics,Audio,Zenith,64389,28387.35
+PROD0139,Samsonic Power Bank 912,Electronics,Accessories,Samsonic,3579,2051.53
+PROD0140,BrightWave Laptop 945,Electronics,Laptops,BrightWave,1089,663.89
+PROD0141,ActiveEdge Trekking Pole 410,Sports & Fitness,Outdoor,ActiveEdge,3149,1736.88
+PROD0142,Samsonic Cable 544,Electronics,Accessories,Samsonic,3109,2057.14
+PROD0143,IronCore Skipping Rope 201,Sports & Fitness,Fitness,IronCore,3359,1438.14
+PROD0144,Wardrobe Co. Case 386,Fashion,Accessories,Wardrobe Co.,389,144.14
+PROD0145,NatureBloom Conditioner 408,Beauty,Haircare,NatureBloom,399,270.37
+PROD0146,BrightWave Wireless Earbuds 330,Electronics,Audio,BrightWave,3729,1955.59
+PROD0147,FitPro Dumbbell Set 175,Sports & Fitness,Fitness,FitPro,539,286.57
+PROD0148,Zenith Bluetooth Speaker 141,Electronics,Audio,Zenith,26879,17681.84
+PROD0149,Wardrobe Co. Case 558,Fashion,Accessories,Wardrobe Co.,1239,811.32
+PROD0150,Pulsar Phone 379,Electronics,Smartphones,Pulsar,849,421.95
+PROD0151,FitPro Track Pants 415,Sports & Fitness,Sportswear,FitPro,2169,1507.52
+PROD0152,Metro Wear Men's Shirt 432,Fashion,Men,Metro Wear,3149,1797.89
+PROD0153,UrbanThread Running Shoes 164,Fashion,Footwear,UrbanThread,369,177.3
+PROD0154,Comfora Microwave Oven 758,Home & Kitchen,Appliances,Comfora,489,316.19
+PROD0155,StyleHub Power Bank 592,Fashion,Accessories,StyleHub,3639,1809.06
+PROD0156,Nexo Notebook 547,Electronics,Laptops,Nexo,1719,800.42
+PROD0157,Wardrobe Co. Cable 102,Fashion,Accessories,Wardrobe Co.,1039,623.54
+PROD0158,Samsonic Notebook 717,Electronics,Laptops,Samsonic,2339,1417.84
+PROD0159,TrailBlaze Water Bottle 792,Sports & Fitness,Outdoor,TrailBlaze,9509,4091.59
+PROD0160,Prestige+ Ceiling Fan 196,Home & Kitchen,Appliances,Prestige+,779,468.98
+PROD0161,Metro Wear Women's Dress 406,Fashion,Women,Metro Wear,979,466.63
+PROD0162,Samsonic Smartphone 687,Electronics,Smartphones,Samsonic,3589,1924.23
+PROD0163,NatureBloom Hair Oil 871,Beauty,Haircare,NatureBloom,1339,896.72
+PROD0164,OmniTech Phone 451,Electronics,Smartphones,OmniTech,8559,3560.7
+PROD0165,PageTurner Press Romance Novel 278,Books,Fiction,PageTurner Press,129,87.63
+PROD0166,LivWell Photo Frame 340,Home & Kitchen,Home Decor,LivWell,2069,1124.94
+PROD0167,NatureBloom Conditioner 399,Beauty,Haircare,NatureBloom,279,171.2
+PROD0168,StorySpring Fantasy Novel 555,Books,Fiction,StorySpring,1049,383.27
+PROD0169,PureSkin Hair Serum 676,Beauty,Haircare,PureSkin,2649,1359.34
+PROD0170,LivWell Bed Frame 725,Home & Kitchen,Furniture,LivWell,9159,3491.99
+PROD0171,PageTurner Press Dictionary 282,Books,Education,PageTurner Press,199,119.25
+PROD0172,Nexo Laptop 712,Electronics,Laptops,Nexo,24239,15462.31
+PROD0173,UrbanThread Sandals 945,Fashion,Footwear,UrbanThread,959,562.8
+PROD0174,PureSkin Hair Serum 369,Beauty,Haircare,PureSkin,369,212.82
+PROD0175,UrbanNest Bookshelf 313,Home & Kitchen,Furniture,UrbanNest,399,224.07
+PROD0176,TrailBlaze Dumbbell Set 693,Sports & Fitness,Fitness,TrailBlaze,4599,2159.4
+PROD0177,Chikoo Formal Shoes 576,Fashion,Footwear,Chikoo,4019,2764.17
+PROD0178,PeakGear Water Bottle 634,Sports & Fitness,Outdoor,PeakGear,9849,4603.66
+PROD0179,Pulsar Notebook 292,Electronics,Laptops,Pulsar,11019,5403.11
+PROD0180,FitPro Track Pants 631,Sports & Fitness,Sportswear,FitPro,349,133.16
+PROD0181,Metro Wear Charger 546,Fashion,Accessories,Metro Wear,3699,1305.42
+PROD0182,Metro Wear Formal Shoes 509,Fashion,Footwear,Metro Wear,1719,1016.84
+PROD0183,HomeCraft Water Purifier 718,Home & Kitchen,Appliances,HomeCraft,459,196.54
+PROD0184,Samsonic Case 911,Electronics,Accessories,Samsonic,59509,30298.24
+PROD0185,LivWell Cookware Set 358,Home & Kitchen,Kitchen,LivWell,909,580.86
+PROD0186,HomeCraft Office Chair 895,Home & Kitchen,Furniture,HomeCraft,6339,3790.83
+PROD0187,Metro Wear Women's Top 431,Fashion,Women,Metro Wear,3259,1377.32
+PROD0188,GlowUp Hair Serum 749,Beauty,Haircare,GlowUp,2939,1990.94
+PROD0189,OmniTech Wireless Earbuds 331,Electronics,Audio,OmniTech,13619,5381.22
+PROD0190,InkWell Publications History Book 479,Books,Non-Fiction,InkWell Publications,1199,503.74
+PROD0191,LivWell Study Table 170,Home & Kitchen,Furniture,LivWell,779,493.2
+PROD0192,LumiCare Shampoo 997,Beauty,Haircare,LumiCare,539,364.4
+PROD0193,FitPro Trekking Pole 491,Sports & Fitness,Outdoor,FitPro,1319,658.47
+PROD0194,UrbanThread Charger 884,Fashion,Accessories,UrbanThread,4689,1987.11
+PROD0195,Trendify Power Bank 928,Fashion,Accessories,Trendify,1369,708.97
+PROD0196,Voltek Bluetooth Speaker 454,Electronics,Audio,Voltek,4569,1718.34
+PROD0197,Metro Wear Power Bank 747,Fashion,Accessories,Metro Wear,1639,865.67
+PROD0198,BrightMind Books Mystery Novel 260,Books,Fiction,BrightMind Books,969,634.76
+PROD0199,KitchenKing Office Chair 498,Home & Kitchen,Furniture,KitchenKing,6559,2414.28
+PROD0200,FitPro Skipping Rope 533,Sports & Fitness,Fitness,FitPro,669,256.47
+PROD0201,PureSkin Conditioner 831,Beauty,Haircare,PureSkin,649,232.03
+PROD0202,IronCore Skipping Rope 877,Sports & Fitness,Fitness,IronCore,459,263.25
+PROD0203,Zenith Power Bank 562,Electronics,Accessories,Zenith,5769,2767.67
+PROD0204,VelvetTouch Face Wash 279,Beauty,Skincare,VelvetTouch,309,180.09
+PROD0205,Samsonic Case 207,Electronics,Accessories,Samsonic,1319,785.72
+PROD0206,Chikoo Men's Jacket 252,Fashion,Men,Chikoo,1149,770.43
+PROD0207,NatureBloom Lipstick 863,Beauty,Makeup,NatureBloom,2239,890.06
+PROD0208,BrightWave Notebook 835,Electronics,Laptops,BrightWave,10099,4073.27
+PROD0209,StorySpring History Book 797,Books,Non-Fiction,StorySpring,429,176.92
+PROD0210,Trendify Sandals 803,Fashion,Footwear,Trendify,1899,1295.52
+PROD0211,Metro Wear Women's Kurti 700,Fashion,Women,Metro Wear,3359,1632.79
+PROD0212,TrailBlaze Gym Shorts 186,Sports & Fitness,Sportswear,TrailBlaze,1699,1080.05
+PROD0213,TrailBlaze Yoga Mat 818,Sports & Fitness,Fitness,TrailBlaze,1949,1100.77
+PROD0214,BrightMind Books Reference Book 264,Books,Education,BrightMind Books,249,130.92
+PROD0215,PureSkin Moisturizer 802,Beauty,Skincare,PureSkin,159,95.36
+PROD0216,VelvetTouch Conditioner 431,Beauty,Haircare,VelvetTouch,709,257.3
+PROD0217,LivWell Curtain Set 546,Home & Kitchen,Home Decor,LivWell,3299,1596.14
+PROD0218,PureSkin Kajal 597,Beauty,Makeup,PureSkin,189,69.84
+PROD0219,StyleHub Case 756,Fashion,Accessories,StyleHub,2169,1453.25
+PROD0220,KitchenKing Mixer Grinder 145,Home & Kitchen,Kitchen,KitchenKing,7109,4191.6
+PROD0221,BrightMind Books Workbook 702,Books,Education,BrightMind Books,419,153.38
+PROD0222,Chikoo Men's Jeans 812,Fashion,Men,Chikoo,3649,1526.16
+PROD0223,NatureBloom Shampoo 269,Beauty,Haircare,NatureBloom,1959,933.72
+PROD0224,PureSkin Face Wash 372,Beauty,Skincare,PureSkin,199,108.48
+PROD0225,BrightWave Cable 386,Electronics,Accessories,BrightWave,4979,2926.05
+PROD0226,Trendify Charger 313,Fashion,Accessories,Trendify,1039,471.72
+PROD0227,UrbanThread Sneakers 205,Fashion,Footwear,UrbanThread,1469,581.58
+PROD0228,InkWell Publications History Book 621,Books,Non-Fiction,InkWell Publications,569,345.79
+PROD0229,Skyline Notebook 581,Electronics,Laptops,Skyline,37189,17772.1
+PROD0230,PureSkin Conditioner 286,Beauty,Haircare,PureSkin,2489,1240.52
+PROD0231,Trendify Women's Kurti 251,Fashion,Women,Trendify,699,466.99
+PROD0232,Chikoo Case 121,Fashion,Accessories,Chikoo,669,250.41
+PROD0233,Voltek Wireless Earbuds 410,Electronics,Audio,Voltek,2529,1091.64
+PROD0234,Wardrobe Co. Charger 910,Fashion,Accessories,Wardrobe Co.,1389,820.54
+PROD0235,BrightWave Headphones 339,Electronics,Audio,BrightWave,3789,2142.02
+PROD0236,UrbanThread Men's T-Shirt 858,Fashion,Men,UrbanThread,2809,1016.92
+PROD0237,Metro Wear Women's Saree 581,Fashion,Women,Metro Wear,749,353.1
+PROD0238,Voltek Charger 326,Electronics,Accessories,Voltek,17189,10802.89
+PROD0239,StorySpring Mystery Novel 345,Books,Fiction,StorySpring,309,117.81
+PROD0240,VelvetTouch Hair Oil 807,Beauty,Haircare,VelvetTouch,2229,863.0
+PROD0241,BrightMind Books Mystery Novel 635,Books,Fiction,BrightMind Books,139,58.5
+PROD0242,LumiCare Hair Serum 335,Beauty,Haircare,LumiCare,219,97.49
+PROD0243,Trendify Case 857,Fashion,Accessories,Trendify,1039,430.02
+PROD0244,Wardrobe Co. Women's Top 306,Fashion,Women,Wardrobe Co.,1309,879.07
+PROD0245,OmniTech Smartphone 359,Electronics,Smartphones,OmniTech,9429,4512.08
+PROD0246,Samsonic Case 726,Electronics,Accessories,Samsonic,3049,2122.31
+PROD0247,Metro Wear Case 429,Fashion,Accessories,Metro Wear,1079,393.09
+PROD0248,Zenith Laptop 603,Electronics,Laptops,Zenith,2359,1561.91
+PROD0249,NatureBloom Moisturizer 943,Beauty,Skincare,NatureBloom,2959,1580.71
+PROD0250,HomeCraft Ceiling Fan 839,Home & Kitchen,Appliances,HomeCraft,809,501.85
+PROD0251,Samsonic Notebook 939,Electronics,Laptops,Samsonic,3119,1633.55
+PROD0252,StyleHub Sandals 339,Fashion,Footwear,StyleHub,4119,1604.78
+PROD0253,Trendify Cable 855,Fashion,Accessories,Trendify,2239,984.04
+PROD0254,HomeCraft Bookshelf 347,Home & Kitchen,Furniture,HomeCraft,7319,3463.66
+PROD0255,Zenith Notebook 923,Electronics,Laptops,Zenith,2029,877.91
+PROD0256,StyleHub Men's Jeans 520,Fashion,Men,StyleHub,899,458.67
+PROD0257,VelvetTouch Hair Serum 912,Beauty,Haircare,VelvetTouch,579,354.29
+PROD0258,Samsonic Charger 614,Electronics,Accessories,Samsonic,47949,33211.27
+PROD0259,NatureBloom Serum 813,Beauty,Skincare,NatureBloom,1929,771.15
+PROD0260,PureSkin Hair Oil 692,Beauty,Haircare,PureSkin,969,431.53
+PROD0261,VelvetTouch Conditioner 541,Beauty,Haircare,VelvetTouch,1599,827.61
+PROD0262,Skyline Notebook 143,Electronics,Laptops,Skyline,58389,36902.99
+PROD0263,InkWell Publications Reference Book 414,Books,Education,InkWell Publications,359,222.25
+PROD0264,GlowUp Conditioner 847,Beauty,Haircare,GlowUp,629,369.22
+PROD0265,UrbanNest Study Table 924,Home & Kitchen,Furniture,UrbanNest,7539,5091.04
+PROD0266,FitPro Yoga Mat 274,Sports & Fitness,Fitness,FitPro,6849,2748.99
+PROD0267,Metro Wear Charger 190,Fashion,Accessories,Metro Wear,2739,1429.63
+PROD0268,BrightWave Notebook 795,Electronics,Laptops,BrightWave,2139,1294.08
+PROD0269,PeakGear Resistance Band 106,Sports & Fitness,Fitness,PeakGear,6349,2533.05
+PROD0270,GlowUp Hair Oil 948,Beauty,Haircare,GlowUp,2639,1262.69
+PROD0271,HomeCraft Photo Frame 759,Home & Kitchen,Home Decor,HomeCraft,689,245.41
+PROD0272,StyleHub Men's Jacket 168,Fashion,Men,StyleHub,449,306.45
+PROD0273,LivWell Photo Frame 358,Home & Kitchen,Home Decor,LivWell,559,284.31
+PROD0274,Pulsar Smartphone 310,Electronics,Smartphones,Pulsar,2039,1266.65
+PROD0275,Wardrobe Co. Running Shoes 271,Fashion,Footwear,Wardrobe Co.,1299,819.96
+PROD0276,HomeCraft Water Purifier 988,Home & Kitchen,Appliances,HomeCraft,10359,6821.01
+PROD0277,OmniTech Headphones 176,Electronics,Audio,OmniTech,18139,10412.81
+PROD0278,BrightWave Phone 307,Electronics,Smartphones,BrightWave,1669,751.92
+PROD0279,LivWell Microwave Oven 553,Home & Kitchen,Appliances,LivWell,1589,1035.44
+PROD0280,GlowUp Hair Serum 932,Beauty,Haircare,GlowUp,609,375.64
+PROD0281,HomeCraft Ceiling Fan 616,Home & Kitchen,Appliances,HomeCraft,3199,1382.43
+PROD0282,Pulsar Bluetooth Speaker 255,Electronics,Audio,Pulsar,41699,24627.28
+PROD0283,Skyline Bluetooth Speaker 684,Electronics,Audio,Skyline,6179,2941.15
+PROD0284,LumiCare Foundation 993,Beauty,Makeup,LumiCare,2219,1030.54
+PROD0285,Trendify Charger 224,Fashion,Accessories,Trendify,3219,1246.25
+PROD0286,Trendify Sandals 278,Fashion,Footwear,Trendify,1589,700.1
+PROD0287,OmniTech Smartphone 420,Electronics,Smartphones,OmniTech,6489,3816.72
+PROD0288,PureSkin Face Wash 279,Beauty,Skincare,PureSkin,359,219.9
+PROD0289,BrightMind Books Biography 719,Books,Non-Fiction,BrightMind Books,559,214.84
+PROD0290,ActiveEdge Sports Cap 843,Sports & Fitness,Sportswear,ActiveEdge,419,174.13
+PROD0291,LumiCare Face Wash 507,Beauty,Skincare,LumiCare,539,219.07
+PROD0292,BrightWave Cable 948,Electronics,Accessories,BrightWave,58949,32972.99
+PROD0293,Trendify Running Shoes 624,Fashion,Footwear,Trendify,4059,2508.95
+PROD0294,OmniTech Smartphone 518,Electronics,Smartphones,OmniTech,1089,523.88
+PROD0295,GlowUp Lipstick 514,Beauty,Makeup,GlowUp,439,172.81
+PROD0296,NatureBloom Compact Powder 523,Beauty,Makeup,NatureBloom,1059,690.15
+PROD0297,Pulsar Laptop 735,Electronics,Laptops,Pulsar,1479,958.14
+PROD0298,GlowUp Hair Oil 572,Beauty,Haircare,GlowUp,1469,978.78
+PROD0299,Trendify Women's Dress 664,Fashion,Women,Trendify,1309,464.2
+PROD0300,PageTurner Press Romance Novel 189,Books,Fiction,PageTurner Press,319,157.24
+PROD0301,InkWell Publications History Book 909,Books,Non-Fiction,InkWell Publications,359,166.48
+PROD0302,Samsonic Phone 193,Electronics,Smartphones,Samsonic,1779,992.37
+PROD0303,IronCore Camping Tent 394,Sports & Fitness,Outdoor,IronCore,1249,829.88
+PROD0304,Voltek Notebook 667,Electronics,Laptops,Voltek,1159,531.04
+PROD0305,Wardrobe Co. Running Shoes 370,Fashion,Footwear,Wardrobe Co.,419,150.91
+PROD0306,StyleHub Sandals 432,Fashion,Footwear,StyleHub,989,376.13
+PROD0307,KitchenKing Water Purifier 352,Home & Kitchen,Appliances,KitchenKing,12869,5122.28
+PROD0308,NatureBloom Conditioner 401,Beauty,Haircare,NatureBloom,2169,1401.86
+PROD0309,StyleHub Sandals 338,Fashion,Footwear,StyleHub,899,596.17
+PROD0310,Metro Wear Formal Shoes 911,Fashion,Footwear,Metro Wear,509,339.22
+PROD0311,VelvetTouch Sunscreen 933,Beauty,Skincare,VelvetTouch,2189,802.79
+PROD0312,Trendify Charger 225,Fashion,Accessories,Trendify,1659,998.37
+PROD0313,OmniTech Power Bank 374,Electronics,Accessories,OmniTech,1099,467.0
+PROD0314,KitchenKing Mixer Grinder 395,Home & Kitchen,Kitchen,KitchenKing,9059,5563.52
+PROD0315,Samsonic Charger 101,Electronics,Accessories,Samsonic,2069,778.76
+PROD0316,VelvetTouch Shampoo 844,Beauty,Haircare,VelvetTouch,489,271.92
+PROD0317,Comfora Ceiling Fan 687,Home & Kitchen,Appliances,Comfora,499,339.41
+PROD0318,Comfora Office Chair 487,Home & Kitchen,Furniture,Comfora,4329,2164.15
+PROD0319,Metro Wear Men's Shirt 758,Fashion,Men,Metro Wear,619,377.09
+PROD0320,PeakGear Gym Shorts 829,Sports & Fitness,Sportswear,PeakGear,1149,443.79
+PROD0321,IronCore Track Pants 813,Sports & Fitness,Sportswear,IronCore,739,411.05
+PROD0322,BrightWave Case 153,Electronics,Accessories,BrightWave,56709,35837.75
+PROD0323,UrbanThread Cable 484,Fashion,Accessories,UrbanThread,309,132.55
+PROD0324,HomeCraft Study Table 801,Home & Kitchen,Furniture,HomeCraft,3489,2418.04
+PROD0325,PageTurner Press Self-Help Book 577,Books,Non-Fiction,PageTurner Press,739,441.51
+PROD0326,UrbanThread Charger 997,Fashion,Accessories,UrbanThread,1589,995.75
+PROD0327,Voltek Bluetooth Speaker 239,Electronics,Audio,Voltek,1719,701.22
+PROD0328,Zenith Cable 231,Electronics,Accessories,Zenith,2059,759.45
+PROD0329,TrailBlaze Gym Shorts 428,Sports & Fitness,Sportswear,TrailBlaze,1799,773.13
+PROD0330,Prestige+ Microwave Oven 284,Home & Kitchen,Appliances,Prestige+,699,367.26
+PROD0331,StorySpring Mystery Novel 510,Books,Fiction,StorySpring,669,464.85
+PROD0332,PureSkin Compact Powder 997,Beauty,Makeup,PureSkin,389,196.58
+PROD0333,Metro Wear Women's Top 305,Fashion,Women,Metro Wear,4489,2675.13
+PROD0334,FitPro Skipping Rope 308,Sports & Fitness,Fitness,FitPro,8829,5614.91
+PROD0335,VelvetTouch Foundation 222,Beauty,Makeup,VelvetTouch,2919,1987.13
+PROD0336,UrbanThread Sneakers 230,Fashion,Footwear,UrbanThread,1789,970.44
+PROD0337,OmniTech Charger 731,Electronics,Accessories,OmniTech,1289,520.44
+PROD0338,IronCore Camping Tent 172,Sports & Fitness,Outdoor,IronCore,349,227.09
+PROD0339,ActiveEdge Trekking Pole 916,Sports & Fitness,Outdoor,ActiveEdge,1859,1271.23
+PROD0340,FitPro Sports T-Shirt 572,Sports & Fitness,Sportswear,FitPro,5489,3335.72
+PROD0341,Samsonic Headphones 410,Electronics,Audio,Samsonic,26459,9588.74
+PROD0342,StorySpring Thriller Novel 278,Books,Fiction,StorySpring,239,132.11
+PROD0343,Chikoo Men's Jacket 342,Fashion,Men,Chikoo,4319,2284.69
+PROD0344,Voltek Laptop 380,Electronics,Laptops,Voltek,32239,21948.9
+PROD0345,PureSkin Sunscreen 232,Beauty,Skincare,PureSkin,1049,601.62
+PROD0346,NatureBloom Compact Powder 230,Beauty,Makeup,NatureBloom,1219,714.08
+PROD0347,Zenith Laptop 315,Electronics,Laptops,Zenith,2979,2037.12
+PROD0348,Comfora Study Table 622,Home & Kitchen,Furniture,Comfora,6159,2894.43
+PROD0349,UrbanThread Women's Top 634,Fashion,Women,UrbanThread,1419,699.54
+PROD0350,IronCore Gym Shorts 462,Sports & Fitness,Sportswear,IronCore,3879,2139.95
+PROD0351,BrightWave Phone 278,Electronics,Smartphones,BrightWave,8919,5559.37
+PROD0352,PureSkin Lipstick 888,Beauty,Makeup,PureSkin,799,495.4
+PROD0353,StorySpring Biography 714,Books,Non-Fiction,StorySpring,199,83.48
+PROD0354,InkWell Publications Reference Book 502,Books,Education,InkWell Publications,289,156.0
+PROD0355,KitchenKing Cookware Set 272,Home & Kitchen,Kitchen,KitchenKing,4189,2058.04
+PROD0356,Trendify Case 194,Fashion,Accessories,Trendify,1809,930.93
+PROD0357,UrbanThread Women's Saree 952,Fashion,Women,UrbanThread,329,150.6
+PROD0358,Metro Wear Women's Dress 578,Fashion,Women,Metro Wear,2339,1398.36
+PROD0359,Chikoo Women's Kurti 249,Fashion,Women,Chikoo,509,258.22
+PROD0360,InkWell Publications Thriller Novel 984,Books,Fiction,InkWell Publications,749,395.28
+PROD0361,PureSkin Conditioner 915,Beauty,Haircare,PureSkin,1179,667.81
+PROD0362,UrbanThread Case 614,Fashion,Accessories,UrbanThread,3959,2262.7
+PROD0363,BrightMind Books Business Book 760,Books,Non-Fiction,BrightMind Books,179,115.39
+PROD0364,PageTurner Press Biography 544,Books,Non-Fiction,PageTurner Press,969,468.38
+PROD0365,Pulsar Case 886,Electronics,Accessories,Pulsar,3859,2551.71
+PROD0366,Trendify Cable 114,Fashion,Accessories,Trendify,1099,737.91
+PROD0367,StorySpring Thriller Novel 844,Books,Fiction,StorySpring,609,372.35
+PROD0368,TrailBlaze Hiking Backpack 479,Sports & Fitness,Outdoor,TrailBlaze,2429,1678.31
+PROD0369,ActiveEdge Gym Shorts 370,Sports & Fitness,Sportswear,ActiveEdge,329,194.36
+PROD0370,Trendify Men's Jacket 849,Fashion,Men,Trendify,3279,1582.15
+PROD0371,Skyline Case 812,Electronics,Accessories,Skyline,959,449.01
+PROD0372,OmniTech Cable 843,Electronics,Accessories,OmniTech,2589,1406.21
+PROD0373,HomeCraft Non-stick Pan 828,Home & Kitchen,Kitchen,HomeCraft,339,212.67
+PROD0374,UrbanThread Charger 489,Fashion,Accessories,UrbanThread,1949,780.69
+PROD0375,StorySpring Dictionary 526,Books,Education,StorySpring,159,59.84
+PROD0376,KitchenKing Cookware Set 470,Home & Kitchen,Kitchen,KitchenKing,14529,7805.12
+PROD0377,Metro Wear Men's Shirt 793,Fashion,Men,Metro Wear,629,328.63
+PROD0378,Wardrobe Co. Women's Saree 554,Fashion,Women,Wardrobe Co.,1159,463.65
+PROD0379,UrbanNest Microwave Oven 168,Home & Kitchen,Appliances,UrbanNest,389,221.29
+PROD0380,HomeCraft Ceiling Fan 246,Home & Kitchen,Appliances,HomeCraft,739,373.75
+PROD0381,Comfora Pressure Cooker 971,Home & Kitchen,Kitchen,Comfora,539,325.92
+PROD0382,GlowUp Conditioner 958,Beauty,Haircare,GlowUp,339,235.28
+PROD0383,LumiCare Lipstick 440,Beauty,Makeup,LumiCare,199,87.97
+PROD0384,Trendify Charger 510,Fashion,Accessories,Trendify,2119,1119.57
+PROD0385,StorySpring Dictionary 381,Books,Education,StorySpring,239,84.45
+PROD0386,KitchenKing Cookware Set 222,Home & Kitchen,Kitchen,KitchenKing,689,288.35
+PROD0387,VelvetTouch Sunscreen 785,Beauty,Skincare,VelvetTouch,189,110.48
+PROD0388,Zenith Laptop 234,Electronics,Laptops,Zenith,8659,5992.96
+PROD0389,Chikoo Men's Shirt 535,Fashion,Men,Chikoo,1889,857.66
+PROD0390,LumiCare Kajal 941,Beauty,Makeup,LumiCare,259,177.28
+PROD0391,Trendify Case 630,Fashion,Accessories,Trendify,1179,721.23
+PROD0392,Metro Wear Sneakers 259,Fashion,Footwear,Metro Wear,389,222.93
+PROD0393,StyleHub Women's Dress 485,Fashion,Women,StyleHub,1019,577.39
+PROD0394,UrbanNest Study Table 143,Home & Kitchen,Furniture,UrbanNest,1859,797.02
+PROD0395,IronCore Camping Tent 578,Sports & Fitness,Outdoor,IronCore,279,101.07
+PROD0396,VelvetTouch Sunscreen 513,Beauty,Skincare,VelvetTouch,419,268.96
+PROD0397,GlowUp Foundation 875,Beauty,Makeup,GlowUp,669,464.1
+PROD0398,InkWell Publications History Book 522,Books,Non-Fiction,InkWell Publications,239,151.79
+PROD0399,GlowUp Hair Serum 659,Beauty,Haircare,GlowUp,229,158.02
+PROD0400,BrightWave Notebook 902,Electronics,Laptops,BrightWave,1759,1082.74
+PROD0401,Chikoo Men's Shirt 223,Fashion,Men,Chikoo,409,161.85
+PROD0402,Trendify Men's Shirt 112,Fashion,Men,Trendify,1729,854.89
+PROD0403,KitchenKing Table Lamp 385,Home & Kitchen,Home Decor,KitchenKing,8279,4840.5
+PROD0404,UrbanThread Formal Shoes 563,Fashion,Footwear,UrbanThread,479,293.98
+PROD0405,LumiCare Compact Powder 579,Beauty,Makeup,LumiCare,489,234.74
+PROD0406,Metro Wear Men's Shirt 413,Fashion,Men,Metro Wear,1759,985.75
+PROD0407,Skyline Bluetooth Speaker 397,Electronics,Audio,Skyline,859,384.73
+PROD0408,Metro Wear Men's Shirt 524,Fashion,Men,Metro Wear,539,242.06
+PROD0409,Nexo Cable 194,Electronics,Accessories,Nexo,959,357.58
+PROD0410,Pulsar Bluetooth Speaker 675,Electronics,Audio,Pulsar,8419,3885.96
+PROD0411,IronCore Hiking Backpack 701,Sports & Fitness,Outdoor,IronCore,609,219.87
+PROD0412,Trendify Sandals 493,Fashion,Footwear,Trendify,519,247.53
+PROD0413,Trendify Sandals 534,Fashion,Footwear,Trendify,4679,2463.76
+PROD0414,LivWell Photo Frame 928,Home & Kitchen,Home Decor,LivWell,13759,8413.49
+PROD0415,Wardrobe Co. Running Shoes 322,Fashion,Footwear,Wardrobe Co.,519,209.97
+PROD0416,Skyline Notebook 485,Electronics,Laptops,Skyline,6319,3207.88
+PROD0417,OmniTech Bluetooth Speaker 942,Electronics,Audio,OmniTech,2489,1057.97
+PROD0418,BrightMind Books Dictionary 982,Books,Education,BrightMind Books,139,87.49
+PROD0419,UrbanNest Water Purifier 669,Home & Kitchen,Appliances,UrbanNest,3149,2054.02
+PROD0420,TrailBlaze Gym Shorts 632 PROD0420,Sports & Fitness,Sportswear,TrailBlaze,6879,3079.54
+PROD0421,StyleHub Running Shoes 513,Fashion,Footwear,StyleHub,509,260.42
+PROD0422,Nexo Smartphone 250,Electronics,Smartphones,Nexo,52419,26059.19
+PROD0423,Nexo Bluetooth Speaker 588,Electronics,Audio,Nexo,1209,591.24
+PROD0424,Voltek Case 814,Electronics,Accessories,Voltek,37909,18670.58
+PROD0425,Trendify Men's Jacket 774,Fashion,Men,Trendify,4789,1720.86
+PROD0426,HomeCraft Photo Frame 458,Home & Kitchen,Home Decor,HomeCraft,1809,731.67
+PROD0427,PageTurner Press Romance Novel 658,Books,Fiction,PageTurner Press,729,500.37
+PROD0428,Pulsar Wireless Earbuds 505,Electronics,Audio,Pulsar,2759,1860.76
+PROD0429,Prestige+ Table Lamp 531,Home & Kitchen,Home Decor,Prestige+,13529,4873.61
+PROD0430,Nexo Notebook 941,Electronics,Laptops,Nexo,1049,471.68
+PROD0431,Chikoo Sandals 308,Fashion,Footwear,Chikoo,4149,1676.5
+PROD0432,Zenith Phone 848,Electronics,Smartphones,Zenith,7869,3134.92
+PROD0433,GlowUp Hair Oil 553,Beauty,Haircare,GlowUp,289,108.67
+PROD0434,GlowUp Compact Powder 123,Beauty,Makeup,GlowUp,869,573.87
+PROD0435,StorySpring Dictionary 338,Books,Education,StorySpring,169,90.75
+PROD0436,HomeCraft Pressure Cooker 246,Home & Kitchen,Kitchen,HomeCraft,2059,737.48
+PROD0437,VelvetTouch Lipstick 783,Beauty,Makeup,VelvetTouch,879,324.14
+PROD0438,UrbanNest Table Lamp 483,Home & Kitchen,Home Decor,UrbanNest,1579,1027.32
+PROD0439,LivWell Microwave Oven 615,Home & Kitchen,Appliances,LivWell,1089,593.53
+PROD0440,PeakGear Sports Cap 277,Sports & Fitness,Sportswear,PeakGear,2199,1209.14
+PROD0441,PeakGear Water Bottle 667,Sports & Fitness,Outdoor,PeakGear,5419,3345.57
+PROD0442,HomeCraft Photo Frame 210,Home & Kitchen,Home Decor,HomeCraft,1449,770.71
+PROD0443,Trendify Men's Shirt 704,Fashion,Men,Trendify,839,451.4
+PROD0444,VelvetTouch Shampoo 927,Beauty,Haircare,VelvetTouch,759,422.48
+PROD0445,KitchenKing Ceiling Fan 282,Home & Kitchen,Appliances,KitchenKing,2709,1592.89
+PROD0446,Nexo Headphones 873,Electronics,Audio,Nexo,1689,847.49
+PROD0447,FitPro Track Pants 136,Sports & Fitness,Sportswear,FitPro,5959,2827.46
+PROD0448,Wardrobe Co. Men's Jeans 816,Fashion,Men,Wardrobe Co.,529,193.9
+PROD0449,HomeCraft Office Chair 981,Home & Kitchen,Furniture,HomeCraft,329,200.13
+PROD0450,Voltek Phone 163,Electronics,Smartphones,Voltek,5759,2436.17
+PROD0451,IronCore Yoga Mat 522,Sports & Fitness,Fitness,IronCore,5569,2552.46
+PROD0452,StyleHub Women's Kurti 703,Fashion,Women,StyleHub,3189,1501.51
+PROD0453,UrbanThread Sandals 246,Fashion,Footwear,UrbanThread,4879,3357.23
+PROD0454,Voltek Phone 191,Electronics,Smartphones,Voltek,2729,1143.07
+PROD0455,Voltek Smartphone 420,Electronics,Smartphones,Voltek,4639,3180.87
+PROD0456,Prestige+ Office Chair 660,Home & Kitchen,Furniture,Prestige+,369,251.82
+PROD0457,KitchenKing Non-stick Pan 625,Home & Kitchen,Kitchen,KitchenKing,8599,4487.29
+PROD0458,Pulsar Phone 282,Electronics,Smartphones,Pulsar,15429,7161.74
+PROD0459,BrightWave Bluetooth Speaker 299,Electronics,Audio,BrightWave,4219,1614.86
+PROD0460,VelvetTouch Sunscreen 274,Beauty,Skincare,VelvetTouch,379,146.1
+PROD0461,LivWell Pressure Cooker 963,Home & Kitchen,Kitchen,LivWell,1249,644.51
+PROD0462,StorySpring Biography 222,Books,Non-Fiction,StorySpring,239,139.77
+PROD0463,BrightMind Books Dictionary 915,Books,Education,BrightMind Books,539,190.12
+PROD0464,KitchenKing Non-stick Pan 522,Home & Kitchen,Kitchen,KitchenKing,929,424.96
+PROD0465,FitPro Trekking Pole 137,Sports & Fitness,Outdoor,FitPro,8519,5661.46
+PROD0466,Pulsar Notebook 385,Electronics,Laptops,Pulsar,13899,6712.7
+PROD0467,StyleHub Men's Jeans 701,Fashion,Men,StyleHub,4689,2077.02
+PROD0468,StyleHub Men's Shirt 491,Fashion,Men,StyleHub,2789,1753.97
+PROD0469,IronCore Dumbbell Set 607,Sports & Fitness,Fitness,IronCore,789,334.31
+PROD0470,Metro Wear Formal Shoes 489,Fashion,Footwear,Metro Wear,2229,1434.29
+PROD0471,Pulsar Headphones 797,Electronics,Audio,Pulsar,59149,40490.0
+PROD0472,VelvetTouch Hair Oil 459,Beauty,Haircare,VelvetTouch,3319,2025.39
+PROD0473,NatureBloom Compact Powder 231,Beauty,Makeup,NatureBloom,349,137.1
+PROD0474,UrbanNest Mixer Grinder 756,Home & Kitchen,Kitchen,UrbanNest,669,322.66
+PROD0475,NatureBloom Foundation 286,Beauty,Makeup,NatureBloom,2259,1459.31
+PROD0476,LumiCare Face Wash 707,Beauty,Skincare,LumiCare,989,562.53
+PROD0477,BrightWave Wireless Earbuds 325,Electronics,Audio,BrightWave,1039,625.94
+PROD0478,Voltek Smartphone 320,Electronics,Smartphones,Voltek,8749,5076.75
+PROD0479,VelvetTouch Conditioner 346,Beauty,Haircare,VelvetTouch,1309,584.61
+PROD0480,Chikoo Men's T-Shirt 852,Fashion,Men,Chikoo,2479,1520.58
+PROD0481,Skyline Power Bank 833,Electronics,Accessories,Skyline,2599,1180.74
+PROD0482,Prestige+ Photo Frame 790,Home & Kitchen,Home Decor,Prestige+,789,296.68
+PROD0483,OmniTech Wireless Earbuds 632,Electronics,Audio,OmniTech,2969,1787.05
+PROD0484,StorySpring Biography 728,Books,Non-Fiction,StorySpring,219,90.74
+PROD0485,StyleHub Running Shoes 647,Fashion,Footwear,StyleHub,3379,1532.07
+PROD0486,Chikoo Men's Shirt 108,Fashion,Men,Chikoo,299,105.37
+PROD0487,BrightWave Laptop 580,Electronics,Laptops,BrightWave,10209,6001.13
+PROD0488,Metro Wear Power Bank 682,Fashion,Accessories,Metro Wear,1829,1011.09
+PROD0489,InkWell Publications Mystery Novel 271,Books,Fiction,InkWell Publications,479,229.42
+PROD0490,ActiveEdge Hiking Backpack 462,Sports & Fitness,Outdoor,ActiveEdge,1049,472.32
+PROD0491,Wardrobe Co. Case 151,Fashion,Accessories,Wardrobe Co.,499,240.74
+PROD0492,FitPro Track Pants 729,Sports & Fitness,Sportswear,FitPro,749,478.59
+PROD0493,Metro Wear Women's Saree 623,Fashion,Women,Metro Wear,3409,1449.66
+PROD0494,Trendify Men's Jeans 649,Fashion,Men,Trendify,839,298.6
+PROD0495,LivWell Wall Clock 263,Home & Kitchen,Home Decor,LivWell,9539,3634.7
+PROD0496,NatureBloom Shampoo 768,Beauty,Haircare,NatureBloom,549,359.83
+PROD0497,NatureBloom Foundation 144,Beauty,Makeup,NatureBloom,2959,2026.12
+PROD0498,OmniTech Wireless Earbuds 174,Electronics,Audio,OmniTech,4779,1923.15
+PROD0499,FitPro Track Pants 386,Sports & Fitness,Sportswear,FitPro,359,243.56
+PROD0500,Prestige+ Air Fryer 142,Home & Kitchen,Appliances,Prestige+,5139,2711.77

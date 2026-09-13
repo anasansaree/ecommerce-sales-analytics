@@ -1,0 +1,36 @@
+table_name,column_name,data_type,description,primary_key,foreign_key
+customers,customer_id,VARCHAR(9),Unique identifier for a customer,YES,
+customers,customer_name,VARCHAR(100),Synthetic full name of the customer,NO,
+customers,gender,VARCHAR(10),Customer gender (Male/Female); small % missing,NO,
+customers,age,INTEGER,Customer age in years (18-65); small % missing,NO,
+customers,city,VARCHAR(50),Customer's city of residence,NO,
+customers,state,VARCHAR(50),Customer's state of residence,NO,
+customers,signup_date,DATE,Date the customer registered on the platform,NO,
+customers,acquisition_channel,VARCHAR(30),Marketing channel through which the customer was acquired; small % missing,NO,
+products,product_id,VARCHAR(8),Unique identifier for a product,YES,
+products,product_name,VARCHAR(150),Descriptive product name,NO,
+products,category,VARCHAR(30),Top-level product category,NO,
+products,subcategory,VARCHAR(30),Product subcategory within the category,NO,
+products,brand,VARCHAR(50),Synthetic brand name,NO,
+products,unit_price,"DECIMAL(10,2)",Current list price of the product (INR),NO,
+products,cost_price,"DECIMAL(10,2)",Cost of goods for the product (INR); always < unit_price,NO,
+orders,order_id,VARCHAR(9),Unique identifier for an order,YES,
+orders,customer_id,VARCHAR(9),Customer who placed the order,NO,customers.customer_id
+orders,order_date,DATE,Date the order was placed,NO,
+orders,order_status,VARCHAR(20),Delivered / Shipped / Cancelled / Returned,NO,
+orders,shipping_city,VARCHAR(50),City the order was shipped to,NO,
+order_items,order_id,VARCHAR(9),Order this line item belongs to,NO,orders.order_id
+order_items,product_id,VARCHAR(8),Product purchased in this line item,NO,products.product_id
+order_items,quantity,INTEGER,Number of units purchased (1-5 typically),NO,
+order_items,unit_price,"DECIMAL(10,2)",Price per unit at time of order (may vary slightly from current product price),NO,
+order_items,discount_pct,INTEGER,"Discount percentage applied (0, 5, 10, 15, 20, 25, 30)",NO,
+order_items,gross_amount,"DECIMAL(12,2)",quantity * unit_price,NO,
+order_items,discount_amount,"DECIMAL(12,2)",gross_amount * discount_pct / 100,NO,
+order_items,net_amount,"DECIMAL(12,2)",gross_amount - discount_amount,NO,
+payments,order_id,VARCHAR(9),Order this payment record belongs to (1 payment per order),YES,orders.order_id
+payments,payment_method,VARCHAR(20),UPI / Credit Card / Debit Card / Net Banking / Cash on Delivery / Wallet,NO,
+payments,payment_status,VARCHAR(15),Paid / Failed / Refunded,NO,
+returns,order_id,VARCHAR(9),Order associated with this return/refund,NO,orders.order_id
+returns,return_date,DATE,Date the return was recorded; always after order_date,NO,
+returns,return_reason,VARCHAR(30),Damaged Product / Wrong Product / Quality Issue / Size-Fit Issue / Changed Mind / Late Delivery,NO,
+returns,refund_amount,"DECIMAL(12,2)",Amount refunded to the customer (INR),NO,
