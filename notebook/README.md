@@ -1,3 +1,9 @@
+## Key Visuals
+
+![Monthly Revenue Trend](dashboards/01_monthly_revenue_trend.png)
+![Revenue by Order Status](dashboards/02_revenue_by_status.png)
+![Category Revenue](dashboards/04_category_revenue.png)
+
 # E-Commerce Sales & Customer Analytics
 
 ## Project Title
